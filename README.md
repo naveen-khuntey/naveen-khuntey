@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kal425
-- 👀 I’m interested in web designing and competetive coding.
-- 🌱 I’m currently learning c++ .
+- 👀 I’m interested in web developing and competetive coding.
+- 🌱 I’m currently learning c++, html and css .
 - 📫 How to reach me naveenkhuntek@gmail.com 
 
 <!---
